@@ -12,7 +12,7 @@
 
 require 'torch'
 require 'paths'
-require 'cudnn'
+-- require 'cudnn'
 require 'cunn'
 require 'image'
 
